@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anudeep-TechGuy who always learns JS. 
 - 👀 I’m interested in Web technologies and Novels based on the lives of people living in small-town. 
-- 🌱 I’m currently learning <strong>ES5, AngularJs, Python </strong> etc. 
+- 🌱 I’m currently learning <strong>ES7, AngularJs, Python </strong> etc. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me anu-nayakoti@outlook.com
 
